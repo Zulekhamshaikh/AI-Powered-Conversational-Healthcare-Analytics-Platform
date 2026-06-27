@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+google-genai
+python-dotenv
+scikit-learn
+openpyxl
+SpeechRecognition
+streamlit-mic-recorder
