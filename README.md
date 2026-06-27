@@ -230,7 +230,6 @@ The project uses a healthcare dataset containing:
 **Zulekha Shaikh**
 
 * GitHub: https://github.com/Zulekhamshaikh
-* LinkedIn: *(Add your LinkedIn profile URL here)*
 
 ---
 
